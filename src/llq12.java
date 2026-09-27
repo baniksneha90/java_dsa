@@ -1,4 +1,4 @@
-import llq11.Node;
+
 
 public class llq12 {
 	static class Node{
